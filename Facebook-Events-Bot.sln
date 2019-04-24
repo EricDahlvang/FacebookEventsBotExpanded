@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facebook-Events-Bot", "Facebook-Events-Bot.csproj", "{ABAAC570-D8B9-48CF-A40A-49F2B2477976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAAC570-D8B9-48CF-A40A-49F2B2477976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAAC570-D8B9-48CF-A40A-49F2B2477976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAAC570-D8B9-48CF-A40A-49F2B2477976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAAC570-D8B9-48CF-A40A-49F2B2477976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DB11A8-CAB8-40B5-AF8E-1C2FA35C8690}
+	EndGlobalSection
+EndGlobal
