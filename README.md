@@ -1,19 +1,19 @@
 ﻿# Concepts introduced in this sample
 
-This is a Fork of the [23.facebook-events][https://github.com/Microsoft/BotBuilder-Samples/tree/master/samples/csharp_dotnetcore/23.facebook-events] sample and expanded to include Facebook Handover Protocol event handling, including passing thread control to a secondary bot.
+This is a Fork of the [23.facebook-events](https://github.com/Microsoft/BotBuilder-Samples/tree/master/samples/csharp_dotnetcore/23.facebook-events) sample and expanded to include Facebook Handover Protocol event handling, including passing thread control to a secondary bot.
 
 This sample shows how to integrate and consume Facebook specific payloads, such as postbacks, quick replies, echos and optin events. 
 
 Since Bot Framework supports multiple Facebook pages for a single bot, we also show how to know the page to which the message was sent, so developers can have custom behavior per page.
 
 ### Install .NET Core and CLI Tooling
-- [.NET Core SDK][https://dotnet.microsoft.com/download] version 2.1
+- [.NET Core SDK](https://dotnet.microsoft.com/download) version 2.1
 	```bash
 	# determine dotnet version
 	dotnet --version
 	```
-- If you don't have an Azure subscription, create a [free account][https://azure.microsoft.com/free/].
-- Install the latest version of the [Azure CLI][https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest] tool. Version 2.0.54 or higher.
+- If you don't have an Azure subscription, create a [free account](https://azure.microsoft.com/free/).
+- Install the latest version of the [Azure CLI](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest) tool. Version 2.0.54 or higher.
 
 # To try this sample
 - In a terminal, navigate to `23.facebook-events`
